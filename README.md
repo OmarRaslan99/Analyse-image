@@ -10,7 +10,7 @@
 8. Afficher l'image résultante
 
 ## Justification des choix d'algorithmes
-<p Les traitements utilisés ont été choisis pour leur efficacité dans la détection de contours et la séparation des différentes pièces de puzzle.>
+Les traitements utilisés ont été choisis pour leur efficacité dans la détection de contours et la séparation des différentes pièces de puzzle.
 
 <p La conversion en niveaux de gris permet de réduire l'information de l'image et de faciliter la détection de contours. Le flou gaussien permet de réduire le bruit et d'éviter des détections de contours erronées. La binarisation de l'image en utilisant la méthode d'OTSU permet de trouver le seuil de binarisation optimal pour la segmentation de l'image.>
 
