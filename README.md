@@ -39,6 +39,4 @@ Finalement, la méthode retenue consiste à appliquer un flou gaussien suivi d'u
 Le résultat final de l'algorithme est l'image originale avec des rectangles verts dessinés autour de chaque contour détecté. Cependant, il y a plusieurs contours pour chaque pièce de puzzle, et plus il y a de couleurs différentes dans une pièce, plus le contour peut ne pas être précis. Cela est dû à l'application de la méthode de seuillage pour binariser l'image, ce qui peut causer une perte de certaines informations de couleur. De plus, l'application d'une opération de dilatation peut relier certaines parties disjointes des pièces, mais cela peut également fusionner des pièces voisines, ce qui peut affecter la précision des contours.
 (regardez resultat_final.png)
 
-#### Nom : MOSTAFA
-#### Prenom : Omar
-#### numéro étudiant : 11811273
+##### <strong>Nom : MOSTAFA  <strong>Prenom : Omar <strong>Numéro <strong>étudiant : 11811273
